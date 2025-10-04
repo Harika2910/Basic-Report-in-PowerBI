@@ -1,2 +1,4 @@
-# Basic-Report-in-PowerBI
-This report provides an interactive overview of product shipping activities across multiple countries, managed by various persons. 
+# Crave Corner - Sales & Performance Dashboard (Interative Dashboard using Power BI).
+# Project Objective
+The CRAVE CORNER wants to analyze product shipping performance across different countries and by different personnel to identify key trends, patterns, and areas of improvement.
+# Dataset Used
